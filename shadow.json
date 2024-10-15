@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern",
-      "toClass": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern"
+      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "toClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP"
     }
   ]
 }
