@@ -2,7 +2,7 @@
   "dinoMappings": [
     {
       "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
-      "toClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP"
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
     }
   ]
 }
