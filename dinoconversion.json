@@ -1,0 +1,24 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/AKP/Creatures/Shadowmane/AKP_LionfishLion_Character_BP.AKP_LionfishLion_Character_BP",
+      "toClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_ASEP.LionfishLion_Character_BP_ASEP"
+    },
+    {
+      "fromClass": "/AKP/Creatures/Shadowmane/LionfishLion_Character_BP_Female.LionfishLion_Character_BP_Female",
+      "toClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_Female.LionfishLion_Character_BP_Female"
+    },
+    {
+      "fromClass": "/Desmodus/Desmodus/IslandDesmodus_Character_BP.IslandDesmodus_Character_BP",
+      "toClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP"
+    },
+    {
+      "fromClass": "/AKP/Creatures/Amargasaurus/AKP_Amargasaurus_Character_BP.AKP_Amargasaurus_Character_BP",
+      "toClass": "/AmargaASEP/Amargasaurus/Amargasaurus_Character_BP_ASEP.Amargasaurus_Character_BP_ASEP"
+    },
+    {
+      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
+    }
+  ]
+}
