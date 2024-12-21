@@ -1,24 +1,24 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/AKP/Creatures/Shadowmane/AKP_LionfishLion_Character_BP.AKP_LionfishLion_Character_BP",
-      "toClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_ASEP.LionfishLion_Character_BP_ASEP"
+      "fromClass": "/VelonasaurPort/Spindles/Spindles_Character_BP_ASEP.Spindles_Character_BP_ASEP",
+      "toClass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP"
     },
     {
-      "fromClass": "/AKP/Creatures/Shadowmane/LionfishLion_Character_BP_Female.LionfishLion_Character_BP_Female",
-      "toClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_Female.LionfishLion_Character_BP_Female"
+      "fromClass": "/gacha/BetterGacha/dino/betterGacha_Character_BP.betterGacha_Character_BP",
+      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
     },
     {
-      "fromClass": "/Desmodus/Desmodus/IslandDesmodus_Character_BP.IslandDesmodus_Character_BP",
-      "toClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP"
+      "fromClass": "/Mangarmrs/IceJumper_Character_BP_Early.IceJumper_Character_BP_Early",
+      "toClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
     },
     {
-      "fromClass": "/AKP/Creatures/Amargasaurus/AKP_Amargasaurus_Character_BP.AKP_Amargasaurus_Character_BP",
-      "toClass": "/AmargaASEP/Amargasaurus/Amargasaurus_Character_BP_ASEP.Amargasaurus_Character_BP_ASEP"
+      "fromClass": "/SnowOwls/Owl_Character_BP_early.Owl_Character_BP_early",
+      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
     },
     {
-      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
+      "fromClass": "/SnowOwls/Owl_Character_BP_early_eden.Owl_Character_BP_early_eden",
+      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
     }
   ]
 }
