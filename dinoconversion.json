@@ -1,24 +1,24 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/VelonasaurPort/Spindles/Spindles_Character_BP_ASEP.Spindles_Character_BP_ASEP",
-      "toClass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP"
+      "fromClass": "MagmasaurASEP/Content/Magmasaur/Cherufe_Character_BP_ASEP.Cherufe_Character_BP_ASEP",
+      "toClass": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP"
     },
     {
-      "fromClass": "/gacha/BetterGacha/dino/betterGacha_Character_BP.betterGacha_Character_BP",
-      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
+      "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP",
+      "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP"
     },
     {
-      "fromClass": "/Mangarmrs/IceJumper_Character_BP_Early.IceJumper_Character_BP_Early",
-      "toClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
+      "fromClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_ASEP.LionfishLion_Character_BP_ASEP",
+      "toClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP"
     },
     {
-      "fromClass": "/SnowOwls/Owl_Character_BP_early.Owl_Character_BP_early",
-      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+      "fromClass": "/Bloodstalker/BloodStalker_Character_BP_ASA.BloodStalker_Character_BP_ASA",
+      "toClass": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP"
     },
     {
-      "fromClass": "/SnowOwls/Owl_Character_BP_early_eden.Owl_Character_BP_early_eden",
-      "toClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP"
+      "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     }
   ]
 }
