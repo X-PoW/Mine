@@ -1,7 +1,7 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "MagmasaurASEP/Content/Magmasaur/Cherufe_Character_BP_ASEP.Cherufe_Character_BP_ASEP",
+      "fromClass": "/MagmasaurASEP/Content/Magmasaur/Cherufe_Character_BP_ASEP.Cherufe_Character_BP_ASEP",
       "toClass": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP"
     },
     {
