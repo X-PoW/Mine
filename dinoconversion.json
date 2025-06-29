@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/MagmasaurASEP/Content/Magmasaur/Cherufe_Character_BP_ASEP.Cherufe_Character_BP_ASEP",
-      "toClass": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP"
+      "fromClass": "/ImprovedSkiff/Item/PrimalItem_Spawner_ImprovedSkiff.PrimalItem_Spawner_ImprovedSkiff",
+      "toClass": "/Game/Genesis/Structures/TekAlarm/PrimalItemStructure_HoverSkiff.PrimalItemStructure_HoverSkiff"
     },
     {
       "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP",
