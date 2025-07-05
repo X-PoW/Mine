@@ -1,8 +1,8 @@
 {
     "Images": [
         {
-            "URL": "https://github.com/X-PoW/Mine/blob/main/sanctuary_75x75.png?raw=true",
-            "Pos": "BottomLeft",
+            "URL": "https://github.com/X-PoW/Mine/blob/main/sanctuary_150x150.png?raw=true",
+            "Pos": "topLeft",
             "Persist": true,
             "FadeTime": 5
         }
