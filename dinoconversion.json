@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP",
-      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
+      "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
+      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP"
     },
     {
       "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
