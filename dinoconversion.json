@@ -1,12 +1,12 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/ImprovedSkiff/Item/PrimalItem_Spawner_ImprovedSkiff.PrimalItem_Spawner_ImprovedSkiff",
-      "toClass": "/Game/Genesis/Structures/TekAlarm/PrimalItemStructure_HoverSkiff.PrimalItemStructure_HoverSkiff"
+      "fromClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP",
+      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
     },
     {
-      "fromClass": "/DesmodusASEP/ModContent/Desmodus/Desmodus_Character_BP_ASEP.Desmodus_Character_BP_ASEP",
-      "toClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP"
+      "fromClass": "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
+      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP"
     },
     {
       "fromClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_ASEP.LionfishLion_Character_BP_ASEP",
