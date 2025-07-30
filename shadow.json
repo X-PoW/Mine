@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
-      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP"
+      "fromClass": "/DraconicChronicles/Dino/Dragon/ElderWyvernBP.ElderWyvernBP",
+      "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP"
     }
   ]
 }
