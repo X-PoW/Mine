@@ -2,7 +2,7 @@
   "dinoMappings": [
     {
       "fromClass": "/DraconicChronicles/Dino/Dragon/ElderWyvernBP.ElderWyvernBP",
-      "toClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP"
+      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
     }
   ]
 }
