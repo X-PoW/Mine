@@ -1,8 +1,9 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/DraconicChronicles/Dino/Dragon/ElderWyvernBP.ElderWyvernBP",
-      "toClass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP"
+      "fromClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP",
+      "toClass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP"
     }
   ]
 }
+
