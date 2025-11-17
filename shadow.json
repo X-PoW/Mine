@@ -1,9 +1,10 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP",
-      "toClass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP"
+      "fromClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP",
+      "toClass": "/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP"
     }
   ]
 }
+
 
