@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
-      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
+      "fromClass": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP",
+      "toClass": "/Tropeognathus/PortedTropeognathus_Character_BP.PortedTropeognathus_Character_BP"
     },
     {
       "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
@@ -22,4 +22,5 @@
     }
   ]
 }
+
 
