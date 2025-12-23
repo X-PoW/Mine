@@ -1,20 +1,20 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
-      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP"
+      "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     },
     {
-      "fromClass": "/Game/ASA/Dinos/Cat/CAT_Character_BP.CAT_Character_BP",
-      "toClass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP"
+      "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
     },
     {
-      "fromClass": "/ShadowmaneASEP/ModContent/LionfishLion/LionfishLion_Character_BP_ASEP.LionfishLion_Character_BP_ASEP",
-      "toClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP"
+      "fromClass": "/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP",
+      "toClass": "/ShinsPortedCreatures/Dinos/LionfishLion/PortedShadowmane_Character_BP.PortedShadowmane_Character_BP"
     },
     {
-      "fromClass": "/Bloodstalker/BloodStalker_Character_BP_ASA.BloodStalker_Character_BP_ASA",
-      "toClass": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP"
+      "fromClass": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP",
+      "toClass": "/ShinsPortedCreatures/Dinos/BloodStalker/PortedBloodStalker_Character_BP.PortedBloodStalker_Character_BP"
     },
     {
       "fromClass": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
@@ -22,3 +22,4 @@
     }
   ]
 }
+
