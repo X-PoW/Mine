@@ -1,8 +1,12 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP",
-      "toClass": "/Game/Genesis2/Dinos/LionfishLion/LionfishLion_Character_BP.LionfishLion_Character_BP"
+      "fromClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP",
+      "toClass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP"
+    },
+    {
+      "fromClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
+      "toClass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP"
     }
   ]
 }
