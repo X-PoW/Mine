@@ -1,12 +1,12 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP",
-      "toClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
+      "fromClass": "/ShinsPortedCreatures/Dinos/Shapeshifter/Shapeshifter_Small/PortedFerox_Small_Character_BP.PortedFerox_Small_Character_BP",
+      "toClass": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP"
     },
     {
-      "fromClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP",
-      "toClass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP"
+      "fromClass": "/ShinsPortedCreatures/Dinos/BloodStalker/PortedBloodStalker_Character_BP.PortedBloodStalker_Character_BP",
+      "toClass": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP"
     }
   ]
 }
