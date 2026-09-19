@@ -129,7 +129,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP.Angler_Character_BP.Angler_Character_BP'",
+      "dinoType": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP.Angler_Character_BP.Angler_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -137,7 +137,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'",
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'",
+      "dinoType": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -161,7 +161,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'",
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -185,7 +185,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'",
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/SDinoVariants/S-Bee/S-QueenBee_Character_BP.S-QueenBee_Character_BP",
+      "dinoType": "/SDinoVariants/S-Bee/S-QueenBee_Character_BP.S-QueenBee_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP.Kairuku_Character_BP.Kairuku_Character_BP'",
+      "dinoType": "/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP.Kairuku_Character_BP.Kairuku_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -427,7 +427,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'",
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP.Bison_Character_BP.Bison_Character_BP'",
+      "dinoType": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP.Bison_Character_BP.Bison_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -475,7 +475,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk'",
+              "bpPath": "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "dinoType": "Blueprint'/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP.Fasola_Character_BP.Fasola_Character_BP'",
+      "dinoType": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP.Fasola_Character_BP.Fasola_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
@@ -499,7 +499,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand.PrimalItemResource_Sand.PrimalItemResource_Sand'",
+              "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand.PrimalItemResource_Sand.PrimalItemResource_Sand",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
