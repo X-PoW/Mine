@@ -237,7 +237,7 @@
       ]
     },
     {
-      "dinoType": "/Game/Genesis2/Dinos/TekStrider/TekStrider_Character_BP.TekStrider_Character_BP",
+      "dinoType": "/ShinsPortedCreatures/Dinos/TekWyvern/PortedTekWyvern_Character_BP.PortedTekWyvern_Character_BP",
       "chanceToProduce": 1,
       "produces": [
         {
